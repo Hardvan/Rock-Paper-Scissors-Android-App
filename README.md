@@ -28,6 +28,6 @@ and keeps track of your score.
 
 ## Screenshots
 
-![Screenshot 1](./images/img1.png)
+<img alt="Screenshot 1" src="./images/img1.png" width="420"/>
 
-![Screenshot 2](./images/img2.png)
+<img alt="Screenshot 2" src="./images/img2.png" width="420"/>
